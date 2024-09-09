@@ -1,10 +1,10 @@
- # Bien Carcellar: Spatial Data Scientist
- Welcome to my Spatial Science Portfolio!
+# Bien Carcellar: Spatial Data Scientist
+Welcome to my Spatial Science Portfolio!
 
- ### Education
- MEngg. in Environmental Systems Engineering, Yamaguchi University
- MSc. in Geoinformatics, University of the Philippines Diliman
- BSc. in Geodetic Engineering, University of the Philippines Diliman
+### Education
+MEngg. in Environmental Systems Engineering, Yamaguchi University
+MSc. in Geoinformatics, University of the Philippines Diliman
+BSc. in Geodetic Engineering, University of the Philippines Diliman
 
 ### Work Experience
 Assistant Professor, Department of Geodetic Engineering, University of the Philippines - Diliman
