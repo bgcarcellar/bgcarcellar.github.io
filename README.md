@@ -1,5 +1,5 @@
-# bgcarcellar.github.io
-Welcome to my Spatial Science Portfolio!
+ # Bien Carcellar: Spatial Data Scientist
+ Welcome to my Spatial Science Portfolio!
 
  ### Education
  MEngg. in Environmental Systems Engineering, Yamaguchi University
